@@ -1,3 +1,10 @@
+PHP、Laravelを理解するために作成した架空の簡易ECサイトです。
+
+カート機能やメール送信機能など、実際のECサイトを作成する流れを体感的に学習しました。
+
+また、開発環境にはDockerを使用し、Mysqlのコンテナを作成後、接続したりと、Dockerの基礎も
+学習する事ができました。
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
